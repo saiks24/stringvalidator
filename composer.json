@@ -1,0 +1,16 @@
+{
+  "name": "saiks/stringvalidator",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mikhail",
+      "email": "saiks1337@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Saiks\\": "src"
+    }
+  }
+}
